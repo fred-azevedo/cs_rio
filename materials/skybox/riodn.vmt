@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "skybox/riodn"
+	$hdrcompressedtexture "skybox/riodn"
+	$nofog 1
+	$ignorez 1
+}
