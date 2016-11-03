@@ -8,10 +8,10 @@ Set in a favela of Rio de Janeiro, this is Brazil's most famous Counter-Strike m
 
 ##Latest version
 
-Download is available at the [Steam Workshop] (https://steamcommunity.com/sharedfiles/filedetails/?id=792188755). Older versions are under the [Releases] (https://github.com/fred-azevedo/cs_rio/releases) section.
+Download is available at the [Steam Workshop] (https://steamcommunity.com/sharedfiles/filedetails/?id=792188755). Other versions are under the [Releases] (https://github.com/fred-azevedo/cs_rio/releases) section.
 
 ##Contribute
-The Hammer map source file is available at the `src/maps` folder of this project. You can grab it, view how the map is built and suggest improvements.
+The Hammer map source file is available at the `src/maps` folder of this project. You can grab it, view how the map is built and change it in your own way or suggest improvements.
 
 ##Credits
 
